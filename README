@@ -4,4 +4,7 @@ tournament_test.py - file with tests
 tournament.py - main program with Python methods
 
 To create the database run tournament.sql script or paste statement into psql
+createdb tournament
+psql -d tournament -f tournament.sql
+
 To rest the app past python tournamennt_test.py
