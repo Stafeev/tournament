@@ -2,3 +2,6 @@ Simple Swiss Pair Python program
 tournament sql contains sql queries
 tournament_test.py - file with tests
 tournament.py - main program with Python methods
+
+To create the database run tournament.sql script or paste statement into psql
+To rest the app past python tournamennt_test.py
